@@ -5,6 +5,7 @@
 3. [Пракачка навыкаў працы з камандным радком не зыходзячы з гітхаба (en, ru)](https://github.com/jlevy/the-art-of-command-line)
 4. [Карысная прогі, што павысяць вашу прадуктыўнасць у Bash (en)](https://github.com/alebcay/awesome-shell)
 5. [Відэакурс Linux: Bash Shell and Scripts (en)](https://rutracker.org/forum/viewtopic.php?t=5308015)
+6. [Артыкул Unix shell: абсолютно первые шаги (ru)](https://habrahabr.ru/post/267825/)
 
 ## Extra
 1. [Learn Shell Programming (en)](http://www.learnshell.org/)
