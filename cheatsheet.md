@@ -1,6 +1,6 @@
 # Cheatsheet
 
-## Усталяванне праграмных пакетаў
+### Усталяванне праграмных пакетаў
 sudo apt-get install <name> - install package
 sudo apt-get update - update list of new versions of packages
 sudo apt-get upgrade - real update packages to newer version
@@ -10,7 +10,7 @@ sudo apt-get clean - delete used .deb files
 apt-cache show <name> - info about package
 apt-cache search <name> - search
 
-## Праца з тэкстам
+### Праца з тэкстам
 cat <filename> - show content of file
 head <filename> - show first 10 lines of text
 tail <filename> - show last 10 lines of text
@@ -26,7 +26,7 @@ echo <text> - return entered text
 <command> < <filename> - input content of file in command
 <commandA> | <commandB> - send result of commandA in commandB
 
-## Іншыя карысныя каманды
+### Іншыя карысныя каманды
 reset - reload terminal
 clear - remove all text from terminal
 exit - exit from shell
