@@ -32,7 +32,7 @@
 3. exit - exit from shell
 4. man <command-name> - open manual for this command
 5. history - history commands in session
-6. ! <code> - execute command under code in history
+6. ! - execute command under code in history
 7. !! - last command
 8. &_ - enter argument from last command
 9. tab - autofilling of command
